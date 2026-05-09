@@ -2,148 +2,63 @@ import streamlit as st
 import pandas as pd
 import pickle
 
-# =========================
-# Load Files
-# =========================
-
+# Load files
 model = pickle.load(open("model.pkl", "rb"))
 scaler = pickle.load(open("scaler.pkl", "rb"))
 label_encoders = pickle.load(open("label_encoders.pkl", "rb"))
+feature_names = pickle.load(open("feature_names.pkl", "rb"))
 
-# =========================
-# Page Config
-# =========================
+st.title("Hair Fall Severity Prediction")
 
-st.set_page_config(
-    page_title="Hair Fall Prediction",
-    page_icon="💇"
-)
+# User Inputs
+age = st.text_input("Age")
+gender = st.text_input("Gender")
+stress = st.text_input("Stress Level")
+sleep = st.text_input("Sleep Duration")
+protein = st.text_input("Protein Intake")
+vegetables = st.text_input("Vegetable/Fruit Intake")
+water = st.text_input("Water Intake")
+smoking = st.text_input("Smoking Habit")
+exercise = st.text_input("Exercise Frequency")
 
-# =========================
-# Title
-# =========================
+if st.button("Predict"):
 
-st.title("💇 Hair Fall Severity Prediction")
+    input_dict = {
+        feature_names[0]: age,
+        feature_names[1]: gender,
+        feature_names[2]: stress,
+        feature_names[3]: sleep,
+        feature_names[4]: protein,
+        feature_names[5]: vegetables,
+        feature_names[6]: water,
+        feature_names[7]: smoking,
+        feature_names[8]: exercise
+    }
 
-st.write("Predict hair fall condition based on lifestyle factors.")
+    input_df = pd.DataFrame([input_dict])
 
-# =========================
-# Inputs
-# =========================
+    # Encode safely
+    for col in input_df.columns:
 
-age = st.selectbox(
-    "Age",
-    ['18-20', '21-25', '26-30']
-)
+        if col in label_encoders:
 
-gender = st.selectbox(
-    "Gender",
-    ['Male', 'Female']
-)
+            le = label_encoders[col]
 
-stress = st.selectbox(
-    "Stress Level",
-    ['Low', 'Moderate', 'High']
-)
+            # Handle unseen labels
+            value = str(input_df[col][0])
 
-sleep = st.selectbox(
-    "Sleep Duration",
-    ['Less than 5 hours', '5-7 hours', 'More than 7 hours']
-)
+            if value not in le.classes_:
+                st.error(f"Unknown value '{value}' for {col}")
+                st.stop()
 
-protein = st.selectbox(
-    "Protein Intake",
-    ['Low', 'Moderate', 'High']
-)
+            input_df[col] = le.transform(input_df[col])
 
-vegetables = st.selectbox(
-    "Vegetable/Fruit Intake",
-    ['Low', 'Moderate', 'High']
-)
+    scaled_data = scaler.transform(input_df)
 
-water = st.selectbox(
-    "Water Intake",
-    ['Low', 'Moderate', 'High']
-)
+    prediction = model.predict(scaled_data)[0]
 
-smoking = st.selectbox(
-    "Smoking Habit",
-    ['Yes', 'No']
-)
+    target_encoder = label_encoders['Current Hair Fall Severity']
 
-exercise = st.selectbox(
-    "Exercise Frequency",
-    ['Never', 'Sometimes', 'Regular']
-)
+    result = target_encoder.inverse_transform([prediction])[0]
 
-# =========================
-# Scalp Condition
-# =========================
-
-st.subheader("Scalp Condition")
-
-dandruff = st.checkbox("Dandruff")
-oily_scalp = st.checkbox("Oily Scalp")
-itching = st.checkbox("Itching")
-
-# =========================
-# Predict
-# =========================
-
-if st.button("Predict Hair Fall"):
-
-    try:
-
-        # IMPORTANT:
-        # Column names MUST EXACTLY MATCH training dataset
-
-        input_data = {
-            'Age (বয়স)': age,
-            'Gender': gender,
-            'Stress Level': stress,
-            'Sleep Duration': sleep,
-            'Dietary Protein Intake (প্রোটিনযুক্ত খাবার—ডিম/মাছ/মুরগি/ডাল—খাওয়ার হার)': protein,
-            '12.Vegetable/Fruit Intake (সবজি/ফল খাওয়ার অভ্যাস)': vegetables,
-            'Water Intake': water,
-            '10.Smoking Habit (ধূমপানের অভ্যাস আছে কি?)': smoking,
-            'Exercise Frequency': exercise,
-            'Dandruff': int(dandruff),
-            'Oily_Scalp': int(oily_scalp),
-            'Itching': int(itching)
-        }
-
-        # Create DataFrame
-        input_df = pd.DataFrame([input_data])
-
-        # Encode categorical columns
-        for col in input_df.columns:
-
-            if col in label_encoders:
-
-                le = label_encoders[col]
-
-                input_df[col] = le.transform(input_df[col])
-
-        # Scale
-        scaled_data = scaler.transform(input_df)
-
-        # Predict
-        prediction = model.predict(scaled_data)[0]
-
-        # Decode Result
-        target_encoder = label_encoders[
-            'Current Hair Fall Severity'
-        ]
-
-        result = target_encoder.inverse_transform(
-            [prediction]
-        )[0]
-
-        # Show Result
-        st.success(
-            f"Predicted Hair Fall Condition: {result}"
-        )
-
-    except Exception as e:
-
-        st.error(f"Error: {e}")
+    st.success(f"Prediction: {result}")
