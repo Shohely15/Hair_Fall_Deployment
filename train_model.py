@@ -4,51 +4,51 @@ import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.ensemble import RandomForestClassifier
-from imblearn.over_sampling import RandomOverSampler
 
 # =========================
 # Load Dataset
 # =========================
 
-df = pd.read_csv("df_encoded.csv")
+df = pd.read_csv("Predicting Hair Loss Severity.csv")
 
 # =========================
-# Feature Engineering
+# Remove SID if exists
 # =========================
 
-# Handle Scalp Condition
-
-df['Dandruff'] = df['Scalp Condition'].astype(str).apply(
-    lambda x: 1 if 'Dandruff' in x else 0
-)
-
-df['Oily_Scalp'] = df['Scalp Condition'].astype(str).apply(
-    lambda x: 1 if 'Oily' in x else 0
-)
-
-df['Itching'] = df['Scalp Condition'].astype(str).apply(
-    lambda x: 1 if 'Itching' in x else 0
-)
-
-# Remove old column
-df.drop(columns=['Scalp Condition'], inplace=True)
+if 'SID' in df.columns:
+    df.drop(columns=['SID'], inplace=True)
 
 # =========================
-# Encode Categorical Columns
+# Handle Missing Values
+# =========================
+
+df.fillna(method='ffill', inplace=True)
+
+# =========================
+# Convert All Object Columns to String
+# =========================
+
+for col in df.select_dtypes(include='object').columns:
+    df[col] = df[col].astype(str)
+
+# =========================
+# Encode All Text Columns
 # =========================
 
 label_encoders = {}
 
-for col in df.select_dtypes(include='object').columns:
+for col in df.columns:
 
-    le = LabelEncoder()
+    if df[col].dtype == 'object':
 
-    df[col] = le.fit_transform(df[col])
+        le = LabelEncoder()
 
-    label_encoders[col] = le
+        df[col] = le.fit_transform(df[col])
+
+        label_encoders[col] = le
 
 # =========================
-# Split Data
+# Target
 # =========================
 
 TARGET = 'Current Hair Fall Severity'
@@ -56,6 +56,10 @@ TARGET = 'Current Hair Fall Severity'
 X = df.drop(TARGET, axis=1)
 
 y = df[TARGET]
+
+# =========================
+# Split
+# =========================
 
 X_train, X_test, y_train, y_test = train_test_split(
     X,
@@ -65,23 +69,12 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 # =========================
-# Balance Dataset
-# =========================
-
-ros = RandomOverSampler(random_state=42)
-
-X_train_resampled, y_train_resampled = ros.fit_resample(
-    X_train,
-    y_train
-)
-
-# =========================
-# Scaling
+# Scale
 # =========================
 
 scaler = StandardScaler()
 
-X_train_scaled = scaler.fit_transform(X_train_resampled)
+X_train_scaled = scaler.fit_transform(X_train)
 
 # =========================
 # Train Model
@@ -92,7 +85,7 @@ model = RandomForestClassifier(
     random_state=42
 )
 
-model.fit(X_train_scaled, y_train_resampled)
+model.fit(X_train_scaled, y_train)
 
 # =========================
 # Save Files
@@ -104,4 +97,6 @@ pickle.dump(scaler, open("scaler.pkl", "wb"))
 
 pickle.dump(label_encoders, open("label_encoders.pkl", "wb"))
 
-print("All PKL files created successfully!")
+pickle.dump(X.columns.tolist(), open("feature_names.pkl", "wb"))
+
+print("All files saved successfully!")
