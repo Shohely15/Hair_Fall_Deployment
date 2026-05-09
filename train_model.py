@@ -10,7 +10,7 @@ from imblearn.over_sampling import RandomOverSampler
 # Load Dataset
 # =========================
 
-df = pd.read_csv("Predicting Hair Loss Severity.csv")
+df = pd.read_csv("df_encoded.csv")
 
 # =========================
 # Feature Engineering
