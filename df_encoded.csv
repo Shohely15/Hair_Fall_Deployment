@@ -1,0 +1,203 @@
+timestamp,email,gender,age_range,academic_year,hair_fall_severity,wash_frequency,chemical_treatments,smoking,protein_intake,veg_fruit_intake,supplements,weight_loss_attempt,exercise_frequency,stress_level,sleep_duration,sleep_quality,recent_illness,sid,image_id,image_path,has_dandruff,has_oily_scalp,has_itching,scalp_unknown,family_history_No,family_history_Not sure,family_history_Yes,outdoor_exposure_Both helmet pollution daily,outdoor_exposure_Headscarf,outdoor_exposure_Helmet only,outdoor_exposure_No helmet low exposure,outdoor_exposure_Pollution only
+1/7/2026 21:03:16,anishahakimr@gmail.com,0,1,0,2,2,1,1,2,2,0,1,2,1,2,2,2,1,photo_1_2026-01-08_15-57-44.jpg,photo_1_2026-01-08_15-57-44.jpg,0,0,0,1,False,False,True,False,False,False,True,False
+1/7/2026 21:13:00,akter34-566@diu.edu.bd,0,1,4,1,1,3,0,1,1,1,0,0,3,2,3,0,2,photo_2_2026-01-08_15-57-44.jpg,photo_2_2026-01-08_15-57-44.jpg,0,0,0,1,True,False,False,False,False,False,False,True
+1/7/2026 21:17:58,trisab67@gmail.com,0,0,0,3,0,0,0,2,3,0,2,3,1,1,1,0,3,photo_3_2026-01-08_15-57-44.jpg,photo_3_2026-01-08_15-57-44.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/7/2026 21:23:37,monira242-35-637@diu.edu.bd,0,1,1,2,1,0,0,3,2,1,2,2,0,2,2,1,4,photo_4_2026-01-08_15-57-44.jpg,photo_4_2026-01-08_15-57-44.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/7/2026 21:25:12,aysha22971@gmail.com,0,2,4,3,1,0,0,1,2,1,0,1,1,3,2,1,5,photo_5_2026-01-08_15-57-44.jpg,photo_5_2026-01-08_15-57-44.jpg,0,1,0,0,True,False,False,False,False,False,False,True
+1/7/2026 21:26:24,alinafarha15@gmail.com,0,1,2,1,2,0,0,3,2,1,1,2,2,3,0,2,6,photo_6_2026-01-08_15-57-44.jpg,photo_6_2026-01-08_15-57-44.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/7/2026 21:27:11,paul15-4891@diu.edu.bd,0,1,4,2,0,0,0,3,3,1,0,0,0,2,3,1,7,photo_7_2026-01-08_15-57-44.jpg,photo_7_2026-01-08_15-57-44.jpg,1,0,0,0,False,True,False,False,False,True,False,False
+1/7/2026 21:34:36,subaitai695@gmail.com,0,1,1,3,1,1,0,2,2,1,0,0,2,2,2,0,8,photo_8_2026-01-08_15-57-44.jpg,photo_8_2026-01-08_15-57-44.jpg,0,1,0,0,True,False,False,True,False,False,False,False
+1/7/2026 21:36:42,onima242-15-450@diu.edu.bd,0,1,1,2,3,1,0,2,3,0,0,0,3,2,2,2,9,photo_9_2026-01-08_15-57-44.jpg,photo_9_2026-01-08_15-57-44.jpg,0,1,0,0,False,False,True,False,False,False,False,True
+1/7/2026 22:02:44,gazikoli898@gmail.com,0,0,0,3,1,0,0,3,1,0,0,0,1,3,3,0,10,photo_10_2026-01-08_15-57-44.jpg,photo_10_2026-01-08_15-57-44.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/7/2026 22:10:02,masura42137@gmail.com,0,0,0,3,1,0,0,2,3,0,0,1,1,2,3,0,11,photo_11_2026-01-08_15-57-44.jpg,photo_11_2026-01-08_15-57-44.jpg,0,0,0,1,False,False,True,False,False,False,True,False
+1/7/2026 22:11:46,rehenamahmud20@gmail.com,0,0,0,1,1,0,0,3,3,0,0,0,0,0,3,0,12,photo_12_2026-01-08_15-57-44.jpg,photo_12_2026-01-08_15-57-44.jpg,0,1,0,0,True,False,False,False,False,False,False,True
+1/7/2026 22:18:06,zerin34-586@diu.edu.bd,0,1,4,1,1,0,0,1,3,0,0,0,1,2,2,0,13,photo_13_2026-01-08_15-57-44.jpg,photo_13_2026-01-08_15-57-44.jpg,1,0,0,0,True,False,False,False,False,True,False,False
+1/7/2026 22:31:50,laboniusl@gmail.com,0,1,4,3,1,0,0,2,2,1,0,0,3,1,0,0,14,photo_14_2026-01-08_15-57-44.jpg,photo_14_2026-01-08_15-57-44.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/7/2026 22:32:46,261-34-069@diu.edu.bd,0,0,0,3,1,1,0,1,1,0,0,1,0,1,2,0,15,photo_15_2026-01-08_15-57-44.jpg,photo_15_2026-01-08_15-57-44.jpg,1,0,0,0,True,False,False,False,False,True,False,False
+1/7/2026 22:39:12,anamika15-4855@diu.edu.bd,0,1,4,2,1,3,0,3,3,0,0,0,3,2,2,1,16,photo_16_2026-01-08_15-57-44.jpg,photo_16_2026-01-08_15-57-44.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/9/2026 20:39:48,253-15-105@diu.edu.bd,0,0,0,1,2,1,0,1,2,0,0,0,3,2,3,0,17,IMG_20260109_203650.jpg,IMG_20260109_203650.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/9/2026 20:40:05,253-35-207@diu.edu.bd,0,1,0,1,1,0,0,2,2,1,0,0,1,2,2,0,18,IMG_20260109_203923.jpg,IMG_20260109_203923.jpg,0,0,0,1,True,False,False,False,False,False,False,True
+1/9/2026 20:46:29,ratusaha9@gmail.com,0,1,4,2,1,0,0,3,3,1,2,2,1,2,2,0,19,IMG_20260109_204337.jpg,IMG_20260109_204337.jpg,1,0,0,0,False,False,True,False,False,True,False,False
+1/9/2026 20:46:54,pretty15-5712@diu.edu.bd,0,1,4,3,1,3,0,1,2,0,1,0,2,1,2,0,20,IMG_20260109_204452.jpg,IMG_20260109_204452.jpg,0,1,0,0,True,False,False,False,False,False,True,False
+1/9/2026 20:48:06,akter23104081010@diu.edu.bd,0,1,4,2,2,2,1,1,1,1,1,2,2,2,1,3,21,IMG_20260109_212244.jpg,IMG_20260109_212244.jpg,0,1,0,0,True,False,False,False,False,False,False,True
+1/9/2026 20:48:47,251-15-115@diu.edu.bd,0,3,1,3,1,1,1,2,3,2,0,3,3,3,0,2,22,IMG_20260109_204755.jpg,IMG_20260109_204755.jpg,1,0,0,0,False,False,True,False,False,True,False,False
+1/9/2026 20:50:21,251-15-096@diu.edu.bd,0,1,1,3,1,1,0,3,2,1,0,0,3,1,2,0,23,IMG_20260109_204837.jpg,IMG_20260109_204837.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/9/2026 20:56:06,labibatahsinshinjon@gmail.com,0,0,0,1,1,1,0,2,1,1,0,0,3,0,3,1,24,IMG_20260109_205444.jpg,IMG_20260109_205444.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/9/2026 20:56:48,261-15-484@diu.edu.bd,0,0,0,2,1,0,0,2,3,0,1,0,3,2,3,0,25,IMG_20260109_205552.jpg,IMG_20260109_205552.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/9/2026 20:57:43,marufalubna565@gmail.com,0,0,0,3,1,0,0,2,1,0,0,0,0,1,3,0,26,IMG_20260109_212206.jpg,IMG_20260109_212206.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/9/2026 21:01:13,puja241-15-493@diu.edu.bd,0,1,2,2,1,0,0,2,1,0,0,0,2,1,3,0,27,IMG_20260109_204755.jpg,IMG_20260109_204755.jpg,0,0,0,1,False,False,True,False,False,False,True,False
+1/9/2026 21:04:00,praptikarpritu@gmail.com,0,1,1,3,1,0,0,1,3,1,0,1,3,0,0,0,28,IMG_20260109_210202.jpg,IMG_20260109_210202.jpg,1,0,0,0,True,False,False,False,False,True,False,False
+1/9/2026 21:05:41,261-33-032@diu.edu.bd,0,0,0,2,1,0,0,1,1,1,0,0,2,2,3,0,29,IMG_20260109_212854.jpg,IMG_20260109_212854.jpg,0,0,0,1,False,False,True,True,False,False,False,False
+1/9/2026 21:07:49,ferdous15-6399@diu.edu.bd,0,1,4,2,1,1,0,3,1,0,0,0,3,2,3,2,30,IMG_20260109_212654.jpg,IMG_20260109_212654.jpg,0,1,0,0,True,False,False,False,False,False,False,True
+1/9/2026 21:09:23,afifaanjum610@gmail.com,0,1,0,3,1,0,0,1,2,0,2,0,2,2,1,0,31,IMG_20260109_213754.jpg,IMG_20260109_213754.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/9/2026 21:14:27,253-11-044@diu.edu.bd,0,0,0,1,1,0,0,3,1,0,0,0,1,2,2,0,32,IMG_20260109_214239.jpg,IMG_20260109_214239.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/9/2026 21:20:27,farhana10-028@diu.edu.bd,0,1,2,3,2,0,0,2,0,0,0,0,2,1,3,0,33,IMG_20260109_205657.jpg,IMG_20260109_205657.jpg,1,0,0,0,True,False,False,True,False,False,False,False
+1/9/2026 21:24:14,261-53-001@diu.edu.bd,0,1,0,2,1,1,0,2,2,1,2,1,0,1,2,0,34,IMG_20260109_213726.jpg,IMG_20260109_213726.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/9/2026 21:29:28,bornochowdhuri561@gmail.com,0,0,0,1,1,0,0,1,1,2,0,0,1,1,2,0,35,IMG_20260109_220938.jpg,IMG_20260109_220938.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/9/2026 21:31:05,253-15-837@diu.edu.bd,0,0,0,3,1,1,0,1,1,0,1,1,1,2,3,0,36,IMG_20260109_221006.jpg,IMG_20260109_221006.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/9/2026 21:36:47,akter241-47-008@diu.edu.bd,0,1,2,2,1,0,0,3,3,0,0,0,3,3,3,0,37,IMG_20260109_211843.jpg,IMG_20260109_211843.jpg,0,1,0,0,True,False,False,False,False,False,True,False
+1/9/2026 21:37:49,mahfuzamaria2006@gmail.com,0,1,0,2,1,0,0,3,3,0,1,0,2,1,3,0,38,IMG_20260109_210231.jpg,IMG_20260109_210231.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/9/2026 21:41:14,sultana34-670@s.diu.edu.bd,0,2,4,3,1,0,0,1,3,0,1,0,1,2,3,0,39,IMG_20260109_210530.jpg,IMG_20260109_210530.jpg,0,0,0,1,False,False,True,False,False,False,False,True
+1/9/2026 21:44:53,jannatullabony2@gmail.com,0,0,0,3,1,0,0,2,1,0,0,0,0,2,3,0,40,IMG_20260109_210738.jpg,IMG_20260109_210738.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/9/2026 21:51:00,sumaiatabassumtamanna02@gmail.com,0,1,0,2,1,0,0,1,1,0,1,0,3,2,3,0,41,IMG_20260109_211308.jpg,IMG_20260109_211308.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/9/2026 21:58:22,jahura242-34-232@diu.edu.bd,0,1,1,2,1,2,0,2,2,0,1,0,3,0,0,2,42,IMG_20260109_215810.jpg,IMG_20260109_215810.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/9/2026 22:00:16,zinnat242-34-230@diu.edu.bd,0,1,1,3,1,0,0,1,2,0,1,0,3,1,2,1,43,IMG_20260109_220557.jpg,IMG_20260109_220557.jpg,1,0,0,0,False,False,True,True,False,False,False,False
+1/9/2026 22:03:13,253-15-629@diu.edu.bd,0,0,0,2,1,0,0,2,1,1,0,0,2,1,3,0,44,IMG_20260109_214707.jpg,IMG_20260109_214707.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/9/2026 22:08:08,252-15-855@diu.edu.bd,0,0,1,2,1,1,0,2,1,0,0,0,1,1,3,0,45,IMG_20260109_215530.jpg,IMG_20260109_215530.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/9/2026 22:11:50,253-52-034@diu.edu.bd,0,0,0,3,1,0,0,3,2,0,0,1,1,1,2,0,46,IMG_20260109_215957.jpg,IMG_20260109_215957.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/9/2026 22:15:30,synthia2307121205@diu.edu.bd,0,1,4,3,1,0,0,1,2,0,0,0,3,1,2,0,47,IMG_20260109_214040.jpg,IMG_20260109_214040.jpg,1,0,0,0,False,True,False,False,False,False,True,False
+1/9/2026 22:17:53,jaren23107121047@diu.edu.bd,0,1,4,2,1,1,0,2,3,1,0,0,2,1,3,0,48,IMG_20260109_222041.jpg,IMG_20260109_222041.jpg,0,0,0,1,True,False,False,True,False,False,False,False
+1/9/2026 22:19:51,sabihajamalmim510969@gmail.com,0,0,0,2,1,0,0,1,3,1,2,0,3,1,2,0,49,IMG_20260109_222157.jpg,IMG_20260109_222157.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/9/2026 22:22:29,253-34-293@diu.edu.bd,0,1,0,2,1,0,0,3,1,1,1,1,3,0,2,0,50,IMG_20260109_222253.jpg,IMG_20260109_222253.jpg,1,0,0,0,True,False,False,True,False,False,False,False
+1/9/2026 22:23:43,253-35-048@diu.edu.bd,0,0,0,2,1,1,0,3,3,0,0,0,1,1,3,0,51,IMG_20260109_222447.jpg,IMG_20260109_222447.jpg,0,0,0,1,True,False,False,False,False,False,False,True
+1/9/2026 22:25:55,253-15-062@diu.edu.bd,0,1,0,1,1,0,0,3,2,0,1,0,3,0,1,1,52,IMG_20260109_222813.jpg,IMG_20260109_222813.jpg,0,1,0,0,False,False,True,True,False,False,False,False
+1/9/2026 22:25:56,saptorshibanik@gmail.com,0,0,0,2,0,0,0,2,2,0,2,1,2,1,2,0,53,IMG_20260109_223210.jpg,IMG_20260109_223210.jpg,0,1,0,0,True,False,False,False,False,False,False,True
+1/9/2026 22:28:34,rubaiyaafedahmithi@gmail.com,0,1,0,3,1,1,0,2,0,0,0,0,3,2,2,3,54,IMG_20260109_223520.jpg,IMG_20260109_223520.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/9/2026 22:32:01,jarin241-34-064@diu.edu.bd,0,1,2,3,1,1,0,2,3,1,1,1,3,1,3,0,55,IMG_20260109_222942.jpg,IMG_20260109_222942.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/9/2026 22:32:26,253-29-024@diu.edu.bd,0,0,0,3,1,0,0,1,3,0,0,0,3,3,3,0,56,IMG_20260109_224235.jpg,IMG_20260109_224235.jpg,1,0,0,0,False,False,True,False,False,True,False,False
+1/9/2026 22:35:42,nodifarzanahaque@gmail.com,0,1,0,2,1,0,0,3,2,1,0,0,1,2,3,1,57,IMG_20260109_224429.jpg,IMG_20260109_224429.jpg,1,0,0,0,False,True,False,True,False,False,False,False
+1/9/2026 22:36:57,253-23-007@diu.edu.bd,0,0,0,3,1,0,0,1,2,1,2,1,3,0,1,2,58,IMG_20260109_222041.jpg,IMG_20260109_222041.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/9/2026 22:37:59,253-33-086@diu.edu.bd,0,0,0,2,1,0,0,1,3,0,2,0,3,1,2,0,59,IMG_20260109_222157.jpg,IMG_20260109_222157.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/9/2026 22:39:13,rosy2305101108@diu.edu.bd,0,1,2,0,2,2,0,0,2,1,1,2,2,1,1,3,60,IMG_20260109_223827.jpg,IMG_20260109_223827.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/9/2026 22:46:05,253-15-205@diu.edu.bd,0,0,0,2,1,1,0,2,1,2,1,0,3,1,2,3,61,IMG_20260109_215618.jpg,IMG_20260109_215618.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:04:52,samiyajannatchandni2006@gmail.com,0,0,0,3,1,1,0,3,2,1,2,1,3,2,1,0,62,IMG_20260110_200308.jpg,IMG_20260110_200308.jpg,1,0,0,0,False,True,False,False,False,False,True,False
+1/10/2026 20:06:14,261-34-081@diu.edu.bd,0,0,0,1,1,0,0,3,2,0,0,0,3,2,3,0,63,IMG_20260110_200133.jpg,IMG_20260110_200133.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:06:40,261-34-100@diu.edu.bd,0,0,0,1,1,1,0,2,0,0,0,0,1,2,3,3,64,IMG_20260110_200225.jpg,IMG_20260110_200225.jpg,0,0,0,1,False,True,False,False,False,False,True,False
+1/10/2026 20:06:45,253-34-287@diu.edu.bd,0,0,0,2,1,0,0,2,1,0,0,0,3,0,0,0,65,IMG_20260110_213440.jpg,IMG_20260110_213440.jpg,0,1,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:10:37,parvin15-6265@diu.edu.bd,0,2,4,2,1,0,0,1,2,0,2,0,3,1,2,1,66,IMG_20260110_200802.jpg,IMG_20260110_200802.jpg,1,0,0,0,False,True,False,False,False,False,False,True
+1/10/2026 20:16:55,akter241-15-102@diu.edu.bd,0,1,2,2,2,0,0,2,2,1,0,0,2,1,3,3,67,IMG_20260110_201428.jpg,IMG_20260110_201428.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:16:58,farhanafauzia0@gmail.com,0,1,2,3,1,0,0,1,3,0,0,0,1,1,1,3,68,IMG_20260110_200921.jpg,IMG_20260110_200921.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/10/2026 20:17:33,khanum23107121078@diu.edu.bd,0,2,4,3,2,1,0,2,2,0,0,1,3,1,2,0,69,IMG_20260110_201215.jpg,IMG_20260110_201215.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/10/2026 20:19:53,arpita241-15-143@diu.edu.bd,0,1,2,2,1,0,0,3,1,1,1,0,1,3,2,2,70,IMG_20260110_201707.jpg,IMG_20260110_201707.jpg,0,1,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:22:26,afrin241-15-817@diu.edu.bd,0,1,2,3,0,0,0,2,0,0,1,0,3,1,3,0,71,IMG_20260110_201922.jpg,IMG_20260110_201922.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:23:37,zaimajannat919@gmail.com,0,0,0,2,1,0,0,2,2,1,2,1,1,1,2,0,72,IMG_20260110_201817.jpg,IMG_20260110_201817.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:25:52,lamyatasnim50@gmail.com,0,1,0,3,1,0,0,2,1,0,1,1,0,2,2,0,73,IMG_20260110_202417.jpg,IMG_20260110_202417.jpg,0,0,0,1,False,False,True,True,False,False,False,False
+1/10/2026 20:29:55,sultana23105081001@diu.edu.bd,0,2,4,2,0,0,0,2,3,0,0,0,2,1,3,0,74,IMG_20260110_202829.jpg,IMG_20260110_202829.jpg,0,1,0,0,True,False,False,False,False,False,True,False
+1/10/2026 20:34:42,samiha241-34-085@diu.edu.bd,0,1,2,2,1,1,0,3,1,1,0,1,1,2,2,0,75,IMG_20260110_203309.jpg,IMG_20260110_203309.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/10/2026 20:39:44,aonkita18@gmail.com,0,1,0,3,1,1,0,2,2,1,2,1,2,1,2,1,76,IMG_20260110_203719.jpg,IMG_20260110_203719.jpg,0,1,0,0,False,False,True,False,False,False,False,True
+1/10/2026 20:44:23,tuli242-35-197@diu.edu.bd,0,1,1,3,2,1,0,1,0,0,2,0,3,1,3,1,77,IMG_20260110_204140.jpg,IMG_20260110_204140.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:45:42,251-30-018@diu.edu.bd,0,1,1,3,2,3,0,2,0,1,2,1,3,2,1,2,78,IMG_20260110_204329.jpg,IMG_20260110_204329.jpg,0,1,0,0,False,False,True,False,False,False,False,True
+1/10/2026 20:49:49,tabassumjerin2004@gmail.com,0,1,0,2,1,3,0,2,2,0,0,0,1,3,3,2,79,IMG_20260110_204718.jpg,IMG_20260110_204718.jpg,0,1,0,0,False,True,False,True,False,False,False,False
+1/10/2026 20:52:31,snigdharoy3821@gmail.com,0,1,2,3,1,1,0,2,0,0,0,0,3,2,2,0,80,IMG_20260110_205002.jpg,IMG_20260110_205002.jpg,0,0,1,0,False,False,True,False,False,False,True,False
+1/10/2026 20:56:14,tabassum2311091064@diu.edu.bd,0,1,4,2,0,1,0,1,1,0,2,1,1,2,2,0,81,IMG_20260110_205327.jpg,IMG_20260110_205327.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:56:24,253-35-289@diu.edu.bd,0,1,0,2,1,0,0,2,0,0,0,0,1,2,2,0,82,MG_20260110_205237.jpg,IMG_20260110_205237.jpg,0,1,0,0,False,False,True,False,False,False,True,False
+1/10/2026 20:59:31,nishat242-30-049@diu.edu.bd,0,1,1,2,2,1,0,2,2,0,1,0,3,1,2,1,83,IMG_20260110_210720.jpg,IMG_20260110_210720.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 21:04:53,amonikathakur9@gmail.com,0,2,4,3,1,0,0,2,2,0,2,0,2,1,1,0,84,IMG_20260110_210237.jpg,IMG_20260110_210237.jpg,0,1,0,0,True,False,False,False,False,True,False,False
+1/10/2026 21:14:00,noh34-603@diu.edu.bd,0,2,4,2,1,0,0,3,3,1,0,1,1,1,3,0,85,IMG_20260110_211231.jpg,IMG_20260110_211231.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/10/2026 21:18:14,shahrinpushpita@gmail.com,0,1,2,2,1,1,0,2,2,2,0,1,0,2,3,1,86,IMG_20260110_211434.jpg,IMG_20260110_211434.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/10/2026 21:24:21,afsana15-5693@diu.edu.bd,0,1,4,3,1,1,0,1,1,1,2,0,3,1,2,0,87,IMG_20260110_212315.jpg,IMG_20260110_212315.jpg,0,1,0,0,True,False,False,False,False,False,True,False
+1/10/2026 21:26:56,261-59-017@diu.edu.bd,0,0,0,1,1,0,0,3,1,0,2,0,1,1,2,0,88,IMG_20260110_212500.jpg,IMG_20260110_212500.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/10/2026 21:31:14,253-15-017@diu.edu.bd,0,0,0,1,2,0,0,3,0,0,1,0,0,2,3,0,89,IMG_20260110_213009.jpg,IMG_20260110_213009.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 21:34:37,251-10-011@diu.edu.bd,0,1,1,1,1,2,0,1,1,1,2,2,1,1,2,0,90,IMG_20260110_213348.jpg,IMG_20260110_213348.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/10/2026 21:35:35,sayma7788bc@gmail.com,0,0,0,3,1,0,0,2,0,0,0,0,1,2,3,0,91,IMG_20260110_213518.jpg,IMG_20260110_213518.jpg,0,1,0,0,False,False,True,False,False,False,True,False
+1/10/2026 21:35:40,251-34-288@diu.edu.bd,0,1,1,1,1,1,0,1,2,1,2,1,3,1,2,1,92,IMG_20260110_200356.jpg,IMG_20260110_200356.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 21:40:15,253-10-102@diu.edu.bd,0,0,0,3,3,0,0,3,1,0,0,1,1,2,3,0,93,IMG_20260110_213622.jpg,IMG_20260110_213622.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/10/2026 21:41:01,usha2302161385@diu.edu.bd,0,1,2,1,1,0,0,1,1,0,0,1,2,2,2,1,94,IMG_20260110_213824.jpg,IMG_20260110_213824.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/10/2026 21:42:18,ishita16-658@s.diu.edu.bd,0,1,4,1,1,1,0,1,1,0,2,1,2,2,2,1,95,IMG_20260110_213922.jpg,IMG_20260110_213922.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/10/2026 21:47:32,253-34-192@diu.edu.bd,0,0,0,3,1,0,0,2,1,0,1,0,3,2,3,0,96,IMG_20260110_214137.jpg,IMG_20260110_214137.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/10/2026 21:51:52,253-59-052@diu.edu.bd,0,1,0,3,1,0,0,3,3,1,0,1,1,2,3,0,97,IMG_20260110_214518.jpg,IMG_20260110_214518.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/10/2026 21:52:12,253-35-050@diu.edu.bd,0,0,0,3,2,3,0,2,3,0,0,1,1,1,3,0,98,IMG_20260110_214559.jpg,IMG_20260110_214559.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/10/2026 22:11:17,tunzin15-6159@s.diu.edu.bd,0,2,4,2,1,0,0,3,1,0,2,0,3,1,1,1,99,IMG_20260110_220650.jpg,IMG_20260110_220650.jpg,1,0,0,0,False,False,True,False,False,True,False,False
+1/10/2026 22:12:03,islam15-6493@s.diu.edu.bd,0,2,4,2,1,0,0,2,0,0,2,1,3,2,2,1,100,IMG_20260110_221027.jpg,IMG_20260110_221027.jpg,0,1,0,0,False,False,True,False,False,True,False,False
+1/10/2026 22:12:06,nova15-6313@s.diu.edu.bd,0,2,4,3,1,0,0,2,0,0,2,0,1,3,2,1,101,IMG_20260110_221317.jpg,IMG_20260110_221317.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/13/2026 19:12:43,nishat15-6535@s.diu.edu.bd,0,1,4,1,1,0,0,2,1,0,2,0,1,3,0,0,102,IMG_20260113_191017.jpg,IMG_20260113_191017.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/13/2026 19:14:15,sreya23105101150@diu.edu.bd,0,2,4,1,1,0,0,3,3,1,2,0,3,1,1,0,103,IMG_20260113_191138.jpg,IMG_20260113_191138.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/13/2026 19:19:33,253-59-006@diu.edu.bd,0,0,1,0,1,0,0,2,1,0,0,0,0,1,3,0,104,IMG_20260113_191808.jpg,IMG_20260113_191808.jpg,0,0,0,1,False,True,False,False,False,False,True,False
+1/13/2026 19:24:25,maliha03122006@gmail.com,0,0,0,0,1,0,0,3,3,0,1,0,1,1,3,0,105,IMG_20260113_192104.jpg,IMG_20260113_192104.jpg,1,0,0,0,True,False,False,True,False,False,False,False
+1/13/2026 19:25:20,261-34-084@diu.edu.bd,0,0,0,3,1,1,0,2,1,1,1,2,3,1,1,3,106,IMG_20260113_192033.jpg,IMG_20260113_192033.jpg,1,0,0,0,True,False,False,True,False,False,False,False
+1/13/2026 19:26:22,oishe22205081031@diu.edu.bd,0,1,4,3,1,0,0,3,1,0,0,3,3,1,0,1,107,IMG_20260113_192334.jpg,IMG_20260113_192334.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/13/2026 19:28:13,253-35-151@diu.edu.bd,0,0,0,3,1,0,0,3,3,0,2,3,1,1,3,0,108,IMG_20260113_192532.jpg,IMG_20260113_192532.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/13/2026 19:32:57,sandhi2305341026@diu.edu.bd,0,1,2,3,1,0,0,1,1,0,0,0,3,1,2,0,109,IMG_20260113_192731.jpg,IMG_20260113_192731.jpg,0,1,0,0,False,True,False,False,False,False,True,False
+1/13/2026 19:33:37,mariyahossen739@gmail.com,0,0,0,2,0,0,0,2,1,0,0,0,3,1,3,0,110,IMG_20260113_193034.jpg,IMG_20260113_193034.jpg,0,0,0,1,False,True,False,False,False,False,False,True
+1/13/2026 19:34:50,shobdo22205341054@diu.edu.bd,0,1,4,3,2,1,0,2,3,0,1,1,3,1,2,3,111,IMG_20260113_193304.jpg,IMG_20260113_193304.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/13/2026 19:38:58,261-11-027@diu.edu.bd,0,0,0,3,1,0,0,3,3,0,0,1,1,2,2,0,112,IMG_20260113_193449.jpg,IMG_20260113_193449.jpg,0,0,0,1,True,False,False,False,False,False,False,True
+1/13/2026 19:40:24,taishy23105031002@diu.edu.bd,0,1,4,3,1,1,0,1,2,1,1,1,2,1,1,1,113,IMG_20260113_194019.jpg,IMG_20260113_194019.jpg,0,1,0,0,False,False,True,True,False,False,False,False
+1/13/2026 19:41:34,nusratjahanmunni62@gmail.com,0,0,0,2,1,0,0,3,1,1,0,0,1,1,0,0,114,IMG_20260113_193926.jpg,IMG_20260113_193926.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/13/2026 19:41:37,tarin242-34-027@diu.edu.bd,0,1,1,3,1,1,0,1,1,0,2,0,3,1,2,0,115,IMG_20260113_193620.jpg,IMG_20260113_193620.jpg,1,0,0,0,True,False,False,False,False,True,False,False
+1/13/2026 19:45:21,pinky10-1196@s.diu.edu.bd,0,2,4,3,2,0,0,1,0,1,0,0,3,1,2,0,116,IMG_20260113_194409.jpg,IMG_20260113_194409.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/13/2026 19:46:41,253-15-099@diu.edu.bd,0,0,0,3,1,1,0,2,2,1,2,2,3,1,2,0,117,IMG_20260113_194329.jpg,IMG_20260113_194329.jpg,1,0,0,0,False,False,True,True,False,False,False,False
+1/13/2026 19:50:51,islammourin0@gmail.com,0,0,0,2,1,0,0,2,3,0,0,0,0,1,0,0,118,IMG_20260113_194910.jpg,IMG_20260113_194910.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/13/2026 19:50:54,253-24-033@diu.edu.bd,0,0,0,3,1,0,0,2,1,0,0,0,1,2,3,1,119,IMG_20260113_194729.jpg,IMG_20260113_194729.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/13/2026 19:51:57,priontipaul229@gmail.com,0,0,0,1,1,1,0,2,1,1,2,1,3,2,2,0,120,IMG_20260113_194942.jpg,IMG_20260113_194942.jpg,1,0,0,0,True,False,False,True,False,False,False,False
+1/13/2026 19:52:21,253-58-031@diu.edu.bd,0,0,0,3,1,1,0,1,1,1,1,0,0,1,2,0,121,IMG_20260113_194830.jpg,IMG_20260113_194830.jpg,0,1,0,0,True,False,False,False,False,False,False,True
+1/13/2026 19:54:51,naharpolan@gmail.com,0,1,0,1,2,1,0,3,0,0,1,0,1,1,2,0,122,IMG_20260113_195317.jpg,IMG_20260113_195317.jpg,1,0,0,0,False,False,True,True,False,False,False,False
+1/13/2026 19:57:31,253-15-709@diu.edu.bd,0,1,0,2,1,0,0,1,1,0,0,0,1,1,2,0,123,IMG_20260113_195606.jpg,IMG_20260113_195606.jpg,0,0,1,0,False,True,False,False,False,False,False,True
+1/13/2026 19:59:45,anjum22205101550@diu.edu.bd,0,0,2,1,1,1,0,0,1,1,1,1,1,1,2,0,124,IMG_20260113_200055.jpg,IMG_20260113_200055.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/13/2026 19:59:48,rinik2302161403@diu.edu.bd,0,1,2,3,2,0,0,2,2,1,2,2,3,1,1,0,125,IMG_20260113_201251.jpg,IMG_20260113_201251.jpg,0,1,0,0,False,False,True,False,False,False,False,True
+1/13/2026 20:04:20,253-10-107@diu.edu.bd,0,0,1,1,0,0,0,0,0,0,0,0,1,0,3,0,126,IMG_20260113_200055.jpg,IMG_20260113_200055.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/13/2026 20:05:45,253-52-050@diu.edu.bd,0,1,0,2,3,2,0,3,3,0,1,0,0,3,3,0,127,IMG_20260113_200414.jpg,IMG_20260113_200414.jpg,0,1,0,0,True,False,False,False,False,True,False,False
+1/13/2026 20:08:41,pandaridu@gmail.com,0,0,0,0,1,0,0,0,0,0,0,0,0,3,3,0,128,IMG_20260113_200739.jpg,IMG_20260113_200739.jpg,0,0,1,0,True,False,False,False,False,False,True,False
+1/13/2026 20:19:02,ghatak2305101162@diu.edu.bd,0,1,2,2,1,1,0,3,0,0,1,1,3,1,2,1,129,IMG_20260113_201609.jpg,IMG_20260113_201609.jpg,0,1,0,0,True,False,False,False,False,True,False,False
+1/13/2026 20:21:17,253-34-025@diu.edu.bd,0,0,0,1,0,0,0,2,0,0,2,0,0,2,2,0,130,IMG_20260113_201934.jpg,IMG_20260113_201934.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/13/2026 20:24:07,261-29-054@diu.edu.bd,0,0,0,2,1,0,0,1,0,0,0,0,1,1,2,0,131,IMG_20260113_202142.jpg,IMG_20260113_202142.jpg,0,0,0,1,False,False,True,False,False,False,True,False
+1/16/2026 20:31:56,yasmin2307121098@diu.edu.bd,0,1,2,3,1,0,0,3,2,0,0,1,3,1,2,0,132,IMG_20260116_203004.jpg,IMG_20260116_203004.jpg,1,0,0,0,True,False,False,False,True,False,False,False
+1/16/2026 20:33:51,ekrajahanurme@gmail.com,0,0,0,2,1,0,0,2,1,0,0,0,1,1,2,0,133,IMG_20260116_203243.jpg,IMG_20260116_203243.jpg,1,0,0,0,True,False,False,False,True,False,False,False
+1/16/2026 20:34:36,251-26-003@diu.edu.bd,0,0,1,3,1,0,0,3,1,0,0,0,2,1,2,0,134,IMG_20260116_203332.jpg,IMG_20260116_203332.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/16/2026 20:39:53,sanjida242-34-317@diu.edu.bd,0,1,1,3,1,0,0,1,1,0,1,1,3,0,2,0,135,IMG_20260116_203627.jpg,IMG_20260116_203627.jpg,1,1,1,0,False,False,True,False,True,False,False,False
+1/16/2026 20:50:25,253-11-001@diu.edu.bd,0,0,1,3,2,0,0,2,1,0,1,0,1,2,3,0,136,IMG_20260116_204915.jpg,IMG_20260116_204915.jpg,0,0,0,1,False,True,False,False,False,False,True,False
+1/16/2026 20:54:16,arifanuzhattubatuba@gmail.com,0,0,0,1,1,0,0,1,1,0,1,1,0,1,3,0,137,IMG_20260116_205345.jpg,IMG_20260116_205345.jpg,1,0,0,0,False,True,False,False,True,False,False,False
+1/16/2026 21:00:05,sinthia2305101525@diu.edu.bd,0,1,2,1,0,0,0,1,3,0,2,3,2,2,3,0,138,IMG_20260116_205542.jpg,IMG_20260116_205542.jpg,0,0,0,1,True,False,False,False,True,False,False,False
+1/16/2026 21:01:25,bonni241-29-100@diu.edu.bd,0,0,2,2,1,0,0,2,1,1,1,2,3,2,3,1,139,IMG_20260116_210133.jpg,IMG_20260116_210133.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/16/2026 21:02:06,halder242-16-030@diu.edu.bd,0,1,1,3,1,0,0,1,0,2,2,3,2,2,2,0,140,IMG_20260116_205837.jpg,IMG_20260116_205837.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/16/2026 21:04:00,253-10-182@diu.edu.bd,0,1,0,1,1,0,0,1,1,0,2,0,1,2,3,0,141,IMG_20260116_210012.jpg,IMG_20260116_210012.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/16/2026 21:04:01,saha2212121018@diu.edu.bd,0,1,4,1,3,0,0,2,0,0,0,0,0,1,2,0,142,IMG_20260116_210205.jpg,IMG_20260116_210205.jpg,1,0,1,0,True,False,False,False,False,False,False,True
+1/16/2026 21:07:05,sumaiyamoon16@gmail.com,0,1,4,2,1,0,0,3,1,0,0,0,2,0,2,1,143,IMG_20260116_210529.jpg,IMG_20260116_210529.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/16/2026 21:09:01,akther241-34-066@diu.edu.bd,0,1,2,3,2,0,0,3,1,0,1,1,3,2,3,3,144,IMG_20260116_210632.jpg,IMG_20260116_210632.jpg,1,1,0,0,True,False,False,False,False,False,False,True
+1/16/2026 21:09:20,251-15-013@diu.edu.bd,0,1,1,2,3,1,0,2,1,0,0,0,1,1,2,0,145,IMG_20260116_210723.jpg,IMG_20260116_210723.jpg,0,0,1,0,False,True,False,False,False,False,False,True
+1/16/2026 21:13:13,afroz241-15-843@diu.edu.bd,0,1,2,2,1,1,0,3,3,1,1,1,1,2,2,0,146,IMG_20260116_211033.jpg,IMG_20260116_211033.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/16/2026 21:13:42,253-50-009@diu.edu.bd,0,1,0,3,1,0,0,1,3,0,0,0,2,1,2,0,147,IMG_20260116_211211.jpg,IMG_20260116_211211.jpg,1,1,0,0,False,False,True,False,True,False,False,False
+1/16/2026 21:21:35,sanjida.islam01819@gmail.com,0,1,4,3,1,1,0,2,1,0,2,0,3,1,2,2,148,IMG_20260116_211854.jpg,IMG_20260116_211854.jpg,1,0,0,0,True,False,False,True,False,False,False,False
+1/16/2026 21:22:27,mithi242-15-463@diu.edu.bd,0,1,1,3,1,0,0,2,3,0,2,2,3,2,3,0,149,IMG_20260116_204715.jpg,IMG_20260116_204715.jpg,1,0,1,0,False,False,True,False,True,False,False,False
+1/16/2026 21:22:28,253-35-166@diu.edu.bd,0,1,1,3,0,0,0,1,1,0,1,1,2,2,2,0,150,IMG_20260116_211959.jpg,IMG_20260116_211959.jpg,1,0,0,0,True,False,False,False,True,False,False,False
+1/16/2026 21:24:08,mst241-15-555@diu.edu.bd,0,1,2,2,1,3,0,3,3,1,2,1,0,2,2,1,151,IMG_20260116_212207.jpg,IMG_20260116_212207.jpg,1,0,0,0,True,False,False,False,True,False,False,False
+1/16/2026 21:29:05,fatemakanij137@gmail.com,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,3,152,IMG_20260116_212603.jpg,IMG_20260116_212603.jpg,1,0,0,0,True,False,False,False,True,False,False,False
+1/16/2026 21:29:16,zahan22205171002@diu.edu.bd,0,2,4,3,1,0,0,3,3,0,2,3,3,3,2,0,153,IMG_20260116_212350.jpg,IMG_20260116_212350.jpg,1,0,0,0,False,False,True,False,True,False,False,False
+1/16/2026 21:34:18,omye23104251014@diu.edu.bd,0,1,4,1,2,0,0,3,2,1,0,1,3,1,2,0,154,IMG_20260116_213326.jpg,IMG_20260116_213326.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/16/2026 21:36:46,roy26-527@s.diu.edu.bd,0,1,4,1,1,2,0,3,3,1,2,1,3,1,2,0,155,IMG_20260116_213043.jpg,IMG_20260116_213043.jpg,0,1,0,0,False,False,True,False,True,False,False,False
+1/16/2026 21:37:57,253-55-009@diu.edu.bd,0,0,0,3,1,0,0,3,3,0,0,0,3,1,2,0,156,IMG_20260116_213413.jpg,IMG_20260116_213413.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/16/2026 21:44:53,sraboni15-6303@s.diu.edu.bd,0,1,4,2,2,1,0,0,0,0,0,0,3,0,0,0,157,IMG_20260116_214114.jpg,IMG_20260116_214114.jpg,1,1,0,0,False,True,False,False,True,False,False,False
+1/16/2026 21:46:33,253-15-141@diu.edu.bd,0,0,0,2,1,0,0,2,1,0,0,0,3,0,2,0,158,IMG_20260116_214334.jpg,IMG_20260116_214334.jpg,1,0,0,0,False,False,True,False,False,False,True,False
+1/16/2026 21:48:52,253-53-013@diu.edu.bd,0,0,0,3,2,2,0,2,3,0,0,2,3,1,2,1,159,IMG_20260116_214625.jpg,IMG_20260116_214625.jpg,0,1,0,0,False,False,True,False,True,False,False,False
+1/16/2026 21:52:17,tasmiah241-34-018@diu.edu.bd,0,1,2,3,1,0,0,3,1,0,0,0,0,1,2,0,160,IMG_20260116_215008.jpg,IMG_20260116_215008.jpg,0,0,0,1,False,False,True,False,True,False,False,False
+1/16/2026 21:55:03,252-15-211@diu.edu.bd,0,1,0,2,1,1,0,2,1,0,1,0,1,2,2,0,161,IMG_20260116_215203.jpg,IMG_20260116_215203.jpg,0,0,0,1,True,False,False,False,False,False,False,True
+1/16/2026 21:57:32,kormokar2305131106@diu.edu.bd,0,1,2,2,1,0,0,3,2,2,2,3,3,1,2,3,162,IMG_20260116_215626.jpg,IMG_20260116_215626.jpg,0,0,0,1,True,False,False,False,False,False,False,True
+1/16/2026 21:58:29,252-34-162@diu.edu.bd,0,1,0,2,3,0,0,3,2,1,0,1,3,2,2,0,163,IMG_20260116_215709.jpg,IMG_20260116_215709.jpg,0,0,0,1,True,False,False,False,True,False,False,False
+1/16/2026 22:02:15,khatun34-634@diu.edu.bd,0,2,4,2,2,1,0,3,2,0,0,1,3,2,2,1,164,IMG_20260116_215855.jpg,IMG_20260116_215855.jpg,1,0,0,0,True,False,False,False,True,False,False,False
+1/16/2026 22:08:15,253-11-151@diu.edu.bd,0,0,0,3,2,1,0,2,2,0,2,1,1,2,3,0,165,IMG_20260116_220448.jpg,IMG_20260116_220448.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/16/2026 22:14:15,alam242-40-031@diu.edu.bd,0,1,1,3,1,0,0,1,1,1,2,1,3,0,2,1,166,IMG_20260116_210800.jpg,IMG_20260116_210800.jpg,1,1,0,0,False,False,True,False,False,False,False,True
+1/16/2026 22:15:05,253-35-093@diu.edu.bd,0,1,0,2,1,1,0,3,1,0,2,0,1,1,2,0,167,IMG_20260116_221216.jpg,IMG_20260116_221216.jpg,1,1,0,0,True,False,False,False,False,False,False,True
+1/16/2026 22:15:21,munia242-35-075@diu.edu.bd,0,1,1,3,1,0,0,3,2,0,2,0,3,2,2,3,168,IMG_20260116_221120.jpg,IMG_20260116_221120.jpg,1,1,0,0,False,True,False,False,True,False,False,False
+1/16/2026 22:20:39,nuzhatsubahnuren@gmail.com,0,0,0,3,1,1,0,2,2,0,0,0,3,1,2,1,169,IMG_20260116_221554.jpg,IMG_20260116_221554.jpg,1,0,1,0,False,True,False,True,False,False,False,False
+1/16/2026 22:20:59,sezufahmida@gmail.com,0,1,1,3,1,0,0,3,0,0,0,1,2,1,2,0,170,IMG_20260116_221919.jpg,IMG_20260116_221919.jpg,1,0,0,0,False,False,True,False,True,False,False,False
+1/16/2026 22:24:52,251-35-051@diu.edu.bd,0,1,1,2,1,0,0,3,3,1,0,0,3,1,1,0,171,IMG_20260116_221959.jpg,IMG_20260116_221959.jpg,0,1,0,0,True,False,False,False,False,False,False,True
+1/16/2026 22:27:23,252-15-322@diu.edu.bd,0,1,0,2,1,0,0,2,1,0,0,0,0,3,3,1,172,IMG_20260116_222300.jpg,IMG_20260116_222300.jpg,1,0,0,0,True,False,False,False,True,False,False,False
+1/16/2026 22:32:28,253-34-043@diu.edu.bd,0,1,0,2,0,0,0,3,2,0,0,0,3,2,0,0,173,IMG_20260116_222829.jpg,IMG_20260116_222829.jpg,1,1,0,0,False,False,True,False,True,False,False,False
+1/16/2026 22:33:03,safinaislam143@gmail.com,0,0,0,2,0,1,1,3,3,0,2,1,3,1,2,3,174,IMG_20260116_222958.jpg,IMG_20260116_222958.jpg,0,1,0,0,False,False,True,False,True,False,False,False
+1/16/2026 22:34:37,261-29-061@diu.edu.bd,0,0,0,0,1,0,0,3,0,0,0,0,1,1,3,0,175,IMG_20260116_223223.jpg,IMG_20260116_223223.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/16/2026 22:35:50,253-15-274@diu.edu.bd,0,1,0,2,1,0,0,2,2,0,0,1,1,2,2,0,176,IMG_20260116_223031.jpg,IMG_20260116_2230311.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/14/2026 22:39:12,tasnimzarin@gmail.com,0,0,0,3,1,0,0,3,3,0,0,0,0,1,2,0,177,photo_17_2026-01-08_15-57-44.jpg,photo_17_2026-01-08_15-57-44.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/14/2026 21:25:12,fatema15-4884@diu.edu.bd,0,2,4,3,1,0,0,1,2,1,0,1,1,3,2,1,178,photo_18_2026-01-08_15-57-44.jpg,photo_18_2026-01-08_15-57-44.jpg,0,1,0,0,True,False,False,False,False,False,False,True
+1/7/2026,saanjida.mim01@gmail.com,0,0,0,3,1,0,0,3,3,0,0,0,0,1,2,0,179,photo_19_2026-01-08_15-57-44.jpg,photo_19_2026-01-08_15-57-44.jpg,1,0,0,0,True,False,False,False,False,False,True,False
+1/7/2026,fhfaiza1288@gmail.com,0,1,4,1,1,3,0,1,1,1,0,0,3,2,3,0,180,photo_20_2026-01-08_15-57-44.jpg,photo_20_2026-01-08_15-57-44.jpg,0,0,0,1,True,False,False,False,False,False,False,True
+1/7/2026,tahsinnozhat@gmail.com,0,1,4,2,1,3,0,3,3,0,0,0,3,2,2,1,181,photo_21_2026-01-08_15-57-44.jpg,photo_21_2026-01-08_15-57-44.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/7/2026,samiyasultana604@gmail.com,0,2,4,3,1,0,0,1,2,1,0,1,1,3,2,1,182,photo_22_2026-01-08_15-57-44.jpg,photo_22_2026-01-08_15-57-44.jpg,0,1,0,0,True,False,False,False,False,False,False,True
+1/7/2026,nusrattasnimnisat2@gmail.com,0,0,0,2,1,0,0,1,3,0,2,0,3,1,2,0,183,IMG_20260109_211638.jpg,IMG_20260109_211638.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/7/2026,e241-47-048@diu.edu.bd,0,0,1,3,2,1,0,2,1,0,0,0,1,1,3,0,184,IMG_20260109_215618.jpg,IMG_20260109_215618.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/7/2026,adita2314121095@diu.edu.bd,0,2,3,3,1,0,0,1,2,0,1,0,3,1,2,1,185,IMG_20260110_202347.jpg,IMG_20260110_202347.jpg,1,0,0,0,False,False,True,True,False,False,False,False
+1/7/2026,261-26-001@diu.edu.bd,0,1,1,3,1,0,0,1,2,0,1,0,3,1,2,1,186,IMG_20260109_220557.jpg,IMG_20260109_220557.jpg,1,0,0,0,False,False,True,True,False,False,False,False
+1/7/2026,momojannatul667@gmail.com,0,0,0,2,1,0,0,3,1,0,2,0,3,1,1,1,187,IMG_20260110_203744.jpg,IMG_20260110_203744.jpg,1,0,0,0,False,False,True,False,False,True,False,False
+1/7/2026,faria242-10-098@diu.edu.bd,0,2,1,2,1,0,0,3,1,0,2,0,3,1,1,1,188,IMG_20260110_205520.jpg,IMG_20260110_205520.jpg,1,0,0,0,False,False,True,False,False,True,False,False
+1/7/2026,jmusarrat261@gmail.com,0,2,4,2,1,0,0,3,1,0,2,0,3,1,1,1,189,IMG_20260110_210720.jpg,IMG_20260110_210720.jpg,1,0,0,0,False,False,True,False,False,True,False,False
+1/7/2026,mstmunni98765498@gmail.com,0,1,0,1,1,0,0,1,1,0,0,1,2,2,2,1,190,IMG_20260110_211008.jpg,IMG_20260110_211008.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/7/2026,atmajadattam@gamil.com,0,2,3,3,2,1,0,2,1,0,0,0,1,1,3,0,191,IMG_20260110_212400.jpg,IMG_20260110_212400.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/7/2026,tanhabinthay@gmail.com,0,0,0,3,2,1,0,2,1,0,0,0,1,1,3,0,192,IMG_20260110_215001.jpg,IMG_20260110_215001.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/7/2026,mishu2307121071@diu.edu.bd,0,1,1,3,1,0,0,1,2,0,1,0,3,1,2,1,193,IMG_20260109_220557.jpg,IMG_20260109_220557.jpg,1,0,0,0,False,False,True,True,False,False,False,False
+1/7/2026,Protitisahariditha00@gmail.com,0,1,4,2,1,3,0,3,3,0,0,0,3,2,2,1,194,IMG_20260113_200452.jpg,IMG_20260113_200452.jpg,1,0,0,0,True,False,False,False,False,False,False,True
+1/16/2026,sumaiya91u@gmail.com,0,0,0,3,1,1,0,2,2,0,0,0,3,1,2,1,195,IMG_20260116_204450.jpg,IMG_20260116_204450.jpg,1,0,1,0,False,True,False,True,False,False,False,False
+1/16/2026,khan24134071@diu.edu.bd.com,0,1,1,3,1,0,0,3,2,0,2,0,3,2,2,3,196,IMG_20260116_211538.jpg,IMG_20260116_211538.jpg,1,1,0,0,False,True,False,False,True,False,False,False
+1/16/2026,rahman24110062@diu.edu.bd.com,0,1,0,2,0,0,0,3,2,0,0,0,3,2,0,0,197,IMG_20260116_211610.jpg,IMG_20260116_211610.jpg,1,1,0,0,False,False,True,False,True,False,False,False
+1/16/2026,fahimaaktermili2@gmail.com,0,0,0,3,2,1,0,2,1,0,0,0,1,1,3,0,198,IMG_20260116_213529.jpg,IMG_20260116_213529.jpg,0,0,0,1,True,False,False,False,False,False,True,False
+1/16/2026,afsana241-24-007@diu.edu.bd.com,0,0,0,3,1,1,0,2,2,0,0,0,3,1,2,1,199,IMG_20260116_220029.jpg,IMG_20260116_220029.jpg,1,0,1,0,False,True,False,True,False,False,False,False
+1/16/2026,mohona2305101894@diu.edu.bd.com,0,2,4,1,1,0,0,3,3,1,2,0,3,1,1,0,200,IMG_20260116_220001.jpg,IMG_20260116_220001.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/16/2026,rani24110065@diu.edu.bd.com,0,1,0,1,1,0,0,1,1,0,0,1,2,2,2,1,201,IMG_20260116_220618.jpg,IMG_20260116_220618.jpg,1,0,0,0,False,False,True,False,False,False,False,True
+1/16/2026,sadia23105101174@diu.edu.bd.com,0,1,1,2,1,0,0,3,3,1,0,0,3,1,1,0,202,IMG_20260116_221446.jpg,IMG_20260116_221446.jpg,0,1,0,0,True,False,False,False,False,False,False,True
